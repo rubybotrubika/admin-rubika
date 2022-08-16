@@ -1,4 +1,4 @@
-rubika
+rubika==5.4.6
 mutagen
 gtts
 rubpy
